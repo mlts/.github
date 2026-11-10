@@ -1,6 +1,5 @@
 <div align="center">
   <h1>MLTS</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=FFE600&center=true&vCenter=true&repeat=true&width=650&lines=More+Long+Term+Support+%21" alt="More Long Term Support !" />
   <p>Building reliable software meant to last.</p>
 </div>
 
